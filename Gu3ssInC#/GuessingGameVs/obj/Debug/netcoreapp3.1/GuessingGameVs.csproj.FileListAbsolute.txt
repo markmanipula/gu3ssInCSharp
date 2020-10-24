@@ -1,0 +1,12 @@
+/Users/muriel_sentoff/Projects/GuessingGameVs/GuessingGameVs/bin/Debug/netcoreapp3.1/GuessingGameVs.deps.json
+/Users/muriel_sentoff/Projects/GuessingGameVs/GuessingGameVs/bin/Debug/netcoreapp3.1/GuessingGameVs.runtimeconfig.json
+/Users/muriel_sentoff/Projects/GuessingGameVs/GuessingGameVs/bin/Debug/netcoreapp3.1/GuessingGameVs.runtimeconfig.dev.json
+/Users/muriel_sentoff/Projects/GuessingGameVs/GuessingGameVs/bin/Debug/netcoreapp3.1/GuessingGameVs.dll
+/Users/muriel_sentoff/Projects/GuessingGameVs/GuessingGameVs/bin/Debug/netcoreapp3.1/GuessingGameVs.pdb
+/Users/muriel_sentoff/Projects/GuessingGameVs/GuessingGameVs/obj/Debug/netcoreapp3.1/GuessingGameVs.csprojAssemblyReference.cache
+/Users/muriel_sentoff/Projects/GuessingGameVs/GuessingGameVs/obj/Debug/netcoreapp3.1/GuessingGameVs.AssemblyInfoInputs.cache
+/Users/muriel_sentoff/Projects/GuessingGameVs/GuessingGameVs/obj/Debug/netcoreapp3.1/GuessingGameVs.AssemblyInfo.cs
+/Users/muriel_sentoff/Projects/GuessingGameVs/GuessingGameVs/obj/Debug/netcoreapp3.1/GuessingGameVs.csproj.CoreCompileInputs.cache
+/Users/muriel_sentoff/Projects/GuessingGameVs/GuessingGameVs/obj/Debug/netcoreapp3.1/GuessingGameVs.dll
+/Users/muriel_sentoff/Projects/GuessingGameVs/GuessingGameVs/obj/Debug/netcoreapp3.1/GuessingGameVs.pdb
+/Users/muriel_sentoff/Projects/GuessingGameVs/GuessingGameVs/obj/Debug/netcoreapp3.1/GuessingGameVs.genruntimeconfig.cache
